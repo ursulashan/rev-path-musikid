@@ -1,6 +1,6 @@
-# rev-path [![Build Status](https://travis-ci.org/sindresorhus/rev-path.svg?branch=master)](https://travis-ci.org/sindresorhus/rev-path-musikid)
+# rev-path-musikid
 
-> Create a [revved file path](http://blog.risingstack.com/automatic-cache-busting-for-your-css/)
+> Upgrade the rev-path , add the option to control the filename name style — Edit
 
 
 ## Install
