@@ -1,4 +1,4 @@
-//更改文件命名规则连接线为 _
+
 'use strict';
 var modifyFilename = require('modify-filename');
 
